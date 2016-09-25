@@ -1,7 +1,7 @@
 zorg-seeed
 ==========
 
-A Zorg robotics module for controling various Seeed hardware.
+A Zorg robotics module for controlling various Seeed hardware.
 
 `Documentation <http://zorg-seeed.readthedocs.org/>`__
 ------------------------------------------------------
